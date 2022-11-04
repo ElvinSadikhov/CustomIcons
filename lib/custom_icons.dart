@@ -18,7 +18,7 @@ import 'package:flutter/widgets.dart';
 class CustomIcons {
   CustomIcons._();
 
-  static const _kFontFam = 'MyFlutterApp';
+  static const _kFontFam = 'CustomIcons';
   static const String? _kFontPkg = null;
 
   static const IconData barcode_qr_code_scanner_scanline_scanner_scan_security_icon_195686_1 = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
